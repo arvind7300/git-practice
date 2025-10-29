@@ -1,1 +1,1 @@
-this is file from feature1 branch
+this is second line in feature1 branch
